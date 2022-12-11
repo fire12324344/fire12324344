@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fire12324344
 -  I play minecraft
--  I code Java and Python but badly
+-  I code in Java and Python
